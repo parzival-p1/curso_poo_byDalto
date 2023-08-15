@@ -2,9 +2,9 @@
 
 ### Impartido por: [Soy Dalto](https://youtu.be/HtKqSJX7VoM)  🔗 
 
-#### Contenido 🫙
+### Contenido 🫙
 
-|# Nº  | Tema                                                   |
-|------|:---------------------------------------------------------:|
-| 00  |  [Clases y objetos](./0-clases_y_objetos.py)|
+| Nº   | Tema                                                      | Youtube Link 
+|------|:---------------------------------------------------------:|--------------|  
+| 00  |  [Clases y objetos](./0-clases_y_objetos.py)|              | [▶️](https://youtu.be/HtKqSJX7VoM?t=899)|
 | 01  |  [Atributos y Métodos](./1-attributos_y_constructor.py)|
