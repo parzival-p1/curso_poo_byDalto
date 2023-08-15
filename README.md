@@ -6,5 +6,5 @@
 
 | Nº   | Tema                                                      | Ejemplo 
 |------|:---------------------------------------------------------:|--------------|  
-| 00  |  [Clases y objetos](./0-clases_y_objetos.py)[YT Link](https://youtu.be/HtKqSJX7VoM?t=899)|              | [YT Link](https://youtu.be/HtKqSJX7VoM?t=899)|
+| 00  |  [Clases y objetos](./0-clases_y_objetos.py)               | [YT Link](https://youtu.be/HtKqSJX7VoM?t=899) |
 | 01  |  [Atributos y Métodos](./1-attributos_y_constructor.py)|
