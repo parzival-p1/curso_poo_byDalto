@@ -48,12 +48,12 @@ class EmpleadoArtista(Persona, Artista):
 
         print(f'Hola, soy: {self.nombre}, {self.mostrar_habilidad()} y trabajo en {self.empresa}')
 
-#* en este caso super() indica que es un metodo heredado 
+#* en este caso super() indica que es un metodo heredado
 
 class Estudiante(Persona):
     ''' subclase Estudiante super clase Persona '''
-    def __init__(self, nombre, edad, nacionalidad, notas, universidad):
 
+    def __init__(self, nombre, edad, nacionalidad, notas, universidad):
         super().__init__(nombre, edad, nacionalidad)
         self.notas = notas
         self.universidad = universidad
