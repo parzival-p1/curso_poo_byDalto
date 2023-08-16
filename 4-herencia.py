@@ -1,5 +1,5 @@
 
-###*** H E R E N C I A  P O O ***###
+###*** H E R E N C I A  S I M P L E  P O O ***###
 
 '''
 La herencia permite a la clase hija (sublclase)
