@@ -49,8 +49,8 @@ class Bat(Mamifero, Ave):
 
 murcielago = Bat()
 murcielago.comer() # El animal esta comiendo
-murcielago.amamantar() # l mamifero esta amamantado
+murcielago.amamantar() # El mamifero esta amamantado
 murcielago.volar() # El ave esta volando
 
-#*** M R O
+#*** M R O ***#
 print(Bat.mro())
