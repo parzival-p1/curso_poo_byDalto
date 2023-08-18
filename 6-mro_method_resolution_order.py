@@ -10,13 +10,13 @@ class A:
 
     def hablar(self):
         ''' hablar func '''
-        print("Hola desde: A")
+        print("Hola desde: A") 
 
 class F(A):
     ''' Clase F '''
 
     def hablar(self):
-        print("Hola desde F")
+        print("Hola desde: F")
 
 class B(A):
     ''' clase B '''
@@ -38,6 +38,7 @@ class D(B, C):
         print("Hola desde D")
 
 d = D() # objeto
-F.hablar(d) # clase que deseo llamar
+d.hablar() # clase que deseo llamar
+print(D.mro)
 
 #*** Función de orden MRO
